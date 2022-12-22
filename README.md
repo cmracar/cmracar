@@ -7,6 +7,10 @@
   <li>Responsible and tries to do the job in the best way.</li>
 </ul>
 
+<p aligh="left">
+  → Visit Website: <a href="https://cmracar.github.io/" target="_blank" rel="noreferrer">Personal Page</a>
+</p>
+
 <h3 align="left">My Stack:</h3>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
