@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cemre</h1>
 <h3 align="left">About Me:</h3>
 <ul>
-  <li>Front-End Developer from Turkey.</li> 
+  <li>Front-End Developer from Turkiye.</li> 
   <li>Love to create designs.</li>
   <li>Have a high business awareness.</li>
   <li>Responsible and tries to do the job in the best way.</li>
